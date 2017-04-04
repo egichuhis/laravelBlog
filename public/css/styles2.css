@@ -1,0 +1,40 @@
+Copy Code
+
+    /*Chatbox*/
+#chatButton{
+    box-shadow:0px 10px 6px rgba(255,255,255, 0.2) inset, 0px -10px 6px rgba(0,0,0, 0.2) inset;
+    padding:10px 20px 10px 20px;
+    background-color:#257;
+    border:1px solid #146;
+    font-weight:bold;
+    font-size:10px;
+    z-index:999;
+    color:#fff;
+}
+#chatButton:hover{
+    cursor:pointer;
+    color:#ff8;
+    background-color:#368;
+}
+#chatBox iframe{
+    z-index:999;
+    border:none;
+    height:500px;
+    width:700px;
+}
+
+#wio_chatters {
+    display: none;
+}
+
+#chatButton:hover{
+    cursor:pointer;
+    color:#ff8;
+    background-color:#368;
+}
+#chatBox iframe{
+    z-index:999;
+    border:none;
+    height:500px;
+    width:700px;
+}
