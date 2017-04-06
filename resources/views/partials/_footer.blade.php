@@ -1,3 +1,3 @@
 <hr>
 
-<p class="text-center">Copyright Prezident Gich - All Rights Reserved</p>
+<p class="text-center">Copyright Edwin Gichuhi - All Rights Reserved</p>
